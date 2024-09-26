@@ -4,8 +4,6 @@ Awata Weak voicebanks
 
 ## General information
 - Gender: robot
-- Height: 150cm
-- Weight: 40kg
 - Introduced: September 26th
 
 ## Diffsinger Voicebank
