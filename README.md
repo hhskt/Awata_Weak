@@ -44,4 +44,4 @@ Japanese RVC model
 ## Japanese RVC (Loli)
 Japanese RVC model
 - Type: RVC
-- Languages: jp
+- Languages: jp, ru
