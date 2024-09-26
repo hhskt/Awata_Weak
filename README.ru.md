@@ -10,7 +10,6 @@
 ![Awata Weak](image.png)
 
 Помогите 
-- Сайт: https://hhs-kt.ru/awata-weak/
 
 ## Основная информация
 - Пол: робот
