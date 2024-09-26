@@ -34,16 +34,16 @@ Recorded on D4, it currently contains one voice color
 - Languages: en
 
 ## PaintVoice Voicebank
-PaintVoice voicebank.
+PaintVoice voicebank
 - Type: PaintVoice
 - Languages: jp
 
 ## Japanese RVC (Normal)
-Japanese RVC model.
+Japanese RVC model
 - Type: RVC
 - Languages: jp
 
 ## Japanese RVC (Loli)
-Japanese RVC model.
+Japanese RVC model
 - Type: RVC
 - Languages: jp
