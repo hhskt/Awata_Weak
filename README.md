@@ -36,12 +36,12 @@ PaintVoice voicebank
 - Type: PaintVoice
 - Languages: jp
 
-## Japanese RVC (Normal)
-Japanese RVC model
+## Normal RVC Model
+Normal RVC model
 - Type: RVC
 - Languages: jp
 
-## Japanese RVC (Loli)
-Japanese RVC model
+## Loli RVC Model
+Loli RVC model
 - Type: RVC
 - Languages: jp, ru
