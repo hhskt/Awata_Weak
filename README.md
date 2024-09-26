@@ -11,7 +11,6 @@ Select Language: [English](README.md) | [Русский](README.ru.md)
 ![Awata Weak](image.png)
 
 Awata Weak voicebanks
-- Site: https://hhs-kt.ru/awata-weak/
 
 ## General Information
 - Gender: robot
