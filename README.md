@@ -1,6 +1,6 @@
 # Awata Weak
 Awata Weak voicebanks
-Site: https://hhs-kt.ru/awata-weak/
+- Site: https://hhs-kt.ru/awata-weak/
 
 ## General information
 - Gender: robot
