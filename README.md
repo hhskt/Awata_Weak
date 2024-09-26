@@ -59,5 +59,3 @@ Loli RVC model
 ## Videos
 [![Watch the video](https://img.youtube.com/vi/hWGzs72-5vY/mqdefault.jpg)](https://youtu.be/hWGzs72-5vY)
 [![Watch the video](https://img.youtube.com/vi/z91aSvDaNV8/mqdefault.jpg)](https://youtu.be/z91aSvDaNV8)
-[![Watch the video](https://img.youtube.com/vi/hWGzs72-5vY/mqdefault.jpg)](https://youtu.be/hWGzs72-5vY)
-[![Watch the video](https://img.youtube.com/vi/z91aSvDaNV8/mqdefault.jpg)](https://youtu.be/z91aSvDaNV8)
