@@ -10,7 +10,7 @@
 
 ![Awata Weak](image.png)
 
-Awata Weak voicebanks
+Awata Weak voicebanks 1
 
 ## General Information
 - Gender: robot
