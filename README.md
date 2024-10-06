@@ -9,7 +9,7 @@
 
 ![Awata Weak](image.png)
 
-A free virtual singer with a youthful female voice, compatible with multiple vocal engines and adaptable to any software.
+A free virtual singer with a youthful feminine voice, compatible with multiple vocal engines and adaptable to any software.
 
 Awata Weak is a fragment of a single, branched system, existing simultaneously in multiple worlds and manifesting in a physical form that shifts from a frail girl to a mature woman, perpetually oscillating between the wholeness and fragmentation of her digital self.
 
