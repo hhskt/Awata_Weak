@@ -9,9 +9,7 @@
 
 ![Awata Weak](image.png)
 
-A free virtual singer with a youthful feminine voice, compatible with multiple vocal engines and adaptable to any software.
-
-Awata Weak is a robot created to serve the user, primarily through singing. It has no will, desires, or ambitions of its own.
+Awata Weak is a robot created in the image of a young girl. She is a virtual singer with a soft and feminine voice.
 
 ## General Information
 - Gender: Female
